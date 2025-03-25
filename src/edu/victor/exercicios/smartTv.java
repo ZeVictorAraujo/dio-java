@@ -1,4 +1,4 @@
-package edu.victor.exercicios.smartTV;
+package edu.victor.exercicios;
 
 public class smartTv {
         boolean ligado = false;

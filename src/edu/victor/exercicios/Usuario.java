@@ -1,4 +1,4 @@
-package edu.victor.exercicios.smartTV;
+package edu.victor.exercicios;
 
 public class Usuario {
     public static void main(String[] args) {
